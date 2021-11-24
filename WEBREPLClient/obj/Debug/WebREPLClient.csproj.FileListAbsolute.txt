@@ -1,0 +1,5 @@
+C:\Users\Mathias\Dropbox\Mathias - privat\VS\git\WebREPLNET\WEBREPLClient\bin\Debug\WebREPLNETClient.dll
+C:\Users\Mathias\Dropbox\Mathias - privat\VS\git\WebREPLNET\WEBREPLClient\bin\Debug\WebREPLNETClient.pdb
+C:\Users\Mathias\Dropbox\Mathias - privat\VS\git\WebREPLNET\WEBREPLClient\obj\Debug\WebREPLClient.csprojResolveAssemblyReference.cache
+C:\Users\Mathias\Dropbox\Mathias - privat\VS\git\WebREPLNET\WEBREPLClient\obj\Debug\WebREPLNETClient.dll
+C:\Users\Mathias\Dropbox\Mathias - privat\VS\git\WebREPLNET\WEBREPLClient\obj\Debug\WebREPLNETClient.pdb
